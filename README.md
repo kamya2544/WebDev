@@ -1,6 +1,5 @@
 # WebDev
-WebDev course by Apna College.
-Apna College Playlist on Website Development
+
 HTML
 --> HyperText Markup Language
 
