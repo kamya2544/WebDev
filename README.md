@@ -7,7 +7,7 @@ HTML
 --> Elements contain tags
 --> Elements are individual members
 --> Every element has an opening and closing tag 
-< >_____</ >
+ < >_____</ >
 --> Some elements whose content isn't enclosed in a text such as an image have only an opening tag.
 <img src="location.jpg">
 
